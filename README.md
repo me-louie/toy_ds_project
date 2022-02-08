@@ -1,2 +1,2 @@
 # toy_ds_project
-DSCI 100 VC Exercise
+project creation date: Feb 8, 2022
